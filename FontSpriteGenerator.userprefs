@@ -1,0 +1,22 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="13/09/2013 8:49:53 PM">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindowController.cs">
+    <Files>
+      <File FileName="MainWindowController.cs" Line="136" Column="5" />
+      <File FileName="Characters.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="FontSpriteGenerator" expanded="True">
+            <Node name="MainWindowController.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
